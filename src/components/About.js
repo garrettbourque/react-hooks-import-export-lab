@@ -1,6 +1,6 @@
 import React from "react";
-
-function About() {
+import {image} from '../data/user'
+export  function About() {
   return (
     <div id="about">
       <h2>About Me</h2>
